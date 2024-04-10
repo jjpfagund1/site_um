@@ -29,3 +29,6 @@ footer{
     display: flex;
     justify-content: right;
 }
+nav{
+    text-align: center;
+}
