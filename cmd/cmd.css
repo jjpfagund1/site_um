@@ -25,8 +25,10 @@ div{
 }
 img{
     margin: 40px;
+    margin-top: 120px;
     margin-bottom: 15px;
     width: 500px;
+    height: 300px;
 }
 header a{
     color: black;
